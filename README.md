@@ -1,23 +1,15 @@
-# express-mvc
+# Sample of error occurring when using `renderToStaticNodeStream` in SSR of React
 
-## Setup
+## Usage
 
 ```bash
-git clone https://github.com/Himenon/express-mvc.git
-cd express-mvc
+git clone https://github.com/Himenon/react-ssr-error-handle.git 
+
+cd react-ssr-error-handle
 yarn
+yarn start
 ```
 
-## Development
+## License
 
-```bash
-yarn server
-```
-
-
-## build
-
-```
-yarn build          # run docker build
-yarn server:docker  # run server on docker
-```
+MIT: @Himenon
